@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-06 01:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-06 00:41:03 +0000"
@@ -184,6 +190,12 @@
       "has_iron_ingot": "2025-07-06 00:38:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-07-06 01:24:36 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
@@ -500,6 +512,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-06 00:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-06 01:32:14 +0000"
     },
     "done": true
   },
@@ -988,6 +1006,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-07-06 00:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-06 01:32:14 +0000"
     },
     "done": true
   },
