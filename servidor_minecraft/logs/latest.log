@@ -28,3 +28,14 @@
 [02:01:46] [Server thread/INFO]: siganconsumiendo was slain by Iron Golem
 [02:01:53] [Server thread/INFO]: Akukis was slain by Iron Golem
 [02:02:26] [Server thread/INFO]: Villager cmk['Villager'/61, l='ServerLevel[world]', x=96.10, y=69.00, z=392.89] died, message: 'Villager was slain by siganconsumiendo'
+[02:04:22] [Server thread/INFO]: Akukis lost connection: Disconnected
+[02:04:22] [Server thread/INFO]: Akukis left the game
+[02:04:29] [Server thread/INFO]: Akukis[/172.28.156.190:55002] logged in with entity id 2264 at (60.08638382006309, 72.0, 359.3082392907493)
+[02:04:29] [Server thread/INFO]: Akukis joined the game
+[02:09:29] [Server thread/INFO]: [Akukis: Summoned new Bee]
+[02:09:30] [Server thread/INFO]: [Akukis: Summoned new Bee]
+[02:09:31] [Server thread/INFO]: [Akukis: Summoned new Bee]
+[02:10:52] [Server thread/WARN]: siganconsumiendo moved too quickly! -8.857844880633067,1.0,-4.942435158794126
+[02:11:29] [Server thread/WARN]: Oak Boat (vehicle of Akukis) moved wrongly! 0.3165336720132643
+[02:11:29] [Server thread/WARN]: Oak Boat (vehicle of Akukis) moved wrongly! 0.37355753000207415
+[02:11:29] [Server thread/WARN]: Oak Boat (vehicle of Akukis) moved wrongly! 0.4248790008324477
