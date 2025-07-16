@@ -7,8 +7,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-07-12 02:31:52 +0000",
+      "minecraft:beach": "2025-07-12 02:31:43 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-12 02:20:15 +0000",
       "minecraft:forest": "2025-07-06 00:34:18 +0000",
+      "minecraft:taiga": "2025-07-12 02:19:41 +0000",
+      "minecraft:windswept_forest": "2025-07-12 02:19:58 +0000",
       "minecraft:river": "2025-07-06 00:43:00 +0000",
+      "minecraft:snowy_plains": "2025-07-12 02:25:39 +0000",
+      "minecraft:snowy_taiga": "2025-07-12 02:23:35 +0000",
       "minecraft:plains": "2025-07-06 00:39:34 +0000"
     },
     "done": false
@@ -1427,6 +1434,24 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-07-12 01:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-12 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-12 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-12 02:12:03 +0000"
     },
     "done": true
   },
