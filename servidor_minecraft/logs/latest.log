@@ -1,33 +1,33 @@
-[21:22:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:22:03] [ServerMain/INFO]: Loaded 1290 recipes
-[21:22:04] [ServerMain/INFO]: Loaded 1399 advancements
-[21:22:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:22:04] [Server thread/INFO]: Loading properties
-[21:22:04] [Server thread/INFO]: Default game type: SURVIVAL
-[21:22:04] [Server thread/INFO]: Generating keypair
-[21:22:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:22:05] [Server thread/INFO]: Using epoll channel type
-[21:22:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:22:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:22:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:22:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:22:05] [Server thread/INFO]: Preparing level "world"
-[21:22:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:22:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:22:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:22:11] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[21:22:12] [Server thread/INFO]: Time elapsed: 1299 ms
-[21:22:12] [Server thread/INFO]: Done (6.660s)! For help, type "help"
-[21:22:31] [Server thread/INFO]: Akukis[/172.28.156.190:59784] logged in with entity id 3 at (-303.75025628181385, 61.69718523875349, 1168.4083819136497)
-[21:22:31] [Server thread/INFO]: Akukis joined the game
-[21:22:47] [Server thread/INFO]: Akukis was killed
-[21:22:47] [Server thread/INFO]: [Akukis: Killed Akukis]
-[21:26:17] [Server thread/INFO]: Akukis lost connection: Disconnected
-[21:26:17] [Server thread/INFO]: Akukis left the game
-[21:26:26] [Server thread/INFO]: Akukis[/172.28.156.190:59938] logged in with entity id 1199 at (147.31929305830602, 74.0, 343.9396695021433)
-[21:26:26] [Server thread/INFO]: Akukis joined the game
-[21:26:26] [Server thread/INFO]: Akukis lost connection: Disconnected
-[21:26:26] [Server thread/INFO]: Akukis left the game
-[21:26:26] [Server thread/WARN]: handleDisconnection() called twice
-[21:27:29] [Server thread/INFO]: Akukis[/172.28.156.190:59990] logged in with entity id 1212 at (147.31929305830602, 74.0, 343.9396695021433)
-[21:27:29] [Server thread/INFO]: Akukis joined the game
+[23:24:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:24:04] [ServerMain/INFO]: Loaded 1290 recipes
+[23:24:05] [ServerMain/INFO]: Loaded 1399 advancements
+[23:24:06] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:24:06] [Server thread/INFO]: Loading properties
+[23:24:06] [Server thread/INFO]: Default game type: SURVIVAL
+[23:24:06] [Server thread/INFO]: Generating keypair
+[23:24:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:24:06] [Server thread/INFO]: Using epoll channel type
+[23:24:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:24:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:24:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:24:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:24:06] [Server thread/INFO]: Preparing level "world"
+[23:24:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:24:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:24:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:24:15] [Server thread/INFO]: Time elapsed: 1002 ms
+[23:24:15] [Server thread/INFO]: Done (8.888s)! For help, type "help"
+[23:24:36] [Server thread/INFO]: Akukis[/172.28.156.190:65295] logged in with entity id 3 at (99.03377026670898, 70.9375, 333.9021982478719)
+[23:24:36] [Server thread/INFO]: Akukis joined the game
+[23:24:59] [Server thread/INFO]: siganconsumiendo[/172.28.225.240:63949] logged in with entity id 377 at (112.73372152350066, 73.0, 391.95668119792657)
+[23:24:59] [Server thread/INFO]: siganconsumiendo joined the game
+[23:26:02] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:26:32] [Server thread/INFO]: [Akukis: Gamerule keepInventory is now set to: true]
+[23:26:39] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[23:26:46] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:26:49] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:27:15] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:27:56] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:28:38] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:28:49] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:29:10] [Server thread/INFO]: siganconsumiendo was slain by Akukis

@@ -1413,33 +1413,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_bricks": "2025-07-12 02:24:37 +0000"
+      "has_dandelion": "2025-07-12 01:59:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_copper_ingot": "2025-07-12 02:27:26 +0000"
+      "has_cornflower": "2025-07-12 01:59:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_bricks": "2025-07-12 02:24:37 +0000"
+      "has_clay_ball": "2025-07-12 02:12:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_copper_ingot": "2025-07-12 02:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-07-12 02:24:37 +0000"
+      "has_clay_ball": "2025-07-12 02:12:33 +0000"
     },
     "done": true
   },
@@ -1449,15 +1443,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/copper_door": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_copper_ingot": "2025-07-12 02:27:26 +0000"
+      "has_sand": "2025-07-12 02:16:42 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-07-12 02:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-12 02:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-12 02:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-07-12 02:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-07-12 02:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-07-12 02:24:37 +0000"
     },
     "done": true
   },
@@ -1473,15 +1497,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
-      "has_clay_ball": "2025-07-12 02:12:33 +0000"
+      "has_bricks": "2025-07-12 02:24:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
-      "has_sand": "2025-07-12 02:16:42 +0000"
+      "has_copper_ingot": "2025-07-12 02:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-12 02:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-12 02:27:26 +0000"
     },
     "done": true
   },
@@ -1491,45 +1527,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-07-12 02:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-07-12 01:59:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-07-12 02:12:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-07-12 01:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-07-12 02:24:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-07-12 02:27:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-12 02:24:04 +0000"
     },
     "done": true
   },
